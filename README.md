@@ -6,7 +6,7 @@ I specialize in crafting high-performance, scalable, and visually appealing bloc
  ⭐ 100% Client Satisfaction<br />
  🚀 10+ Projects Successfully Launched<br />
 
-What I Offer
+#### What I Offer
 
 If you need secure, user-friendly blockchain dapp or fast, responsive, and pixel-perfect front-end development expertise, I can help.
 My expertise includes:
