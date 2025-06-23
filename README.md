@@ -14,10 +14,10 @@ My expertise includes:
  ✅ Blockchain Dapp Development<br />
  ✅ Smart Contract Development<br />
  ✅ Crypto Game Development<br />
- ✅ Webflow Development<br />
- ✅ WordPress & Elementor Pro<br />
- ✅ Shopify E-commerce Development<br />
- ✅ HTML, CSS Development<br />
+ ✅ Trading Bot Development<br />
+ ✅ NFT Development<br />
+ ✅ Wallet Development<br />
+ ✅ Crypto Payment Integration<br />
  ✅ Responsive & Mobile-Optimized<br />
  ✅ Performance Optimization & SEO Best Practices<br />
 
